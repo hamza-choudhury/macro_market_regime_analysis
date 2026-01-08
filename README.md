@@ -167,6 +167,18 @@ Understanding market regimes is crucial for:
 * **Internet Connectivity**: Real-time data download requires internet access
 * **Platform Dependencies**: Some features may vary by Jupyter environment
 
+## 📊 Project Status
+
+This is a **completed portfolio project** that I'm sharing publicly to demonstrate my skills.
+
+## 🌐 Live Dashboard
+
+**Note:** This project includes a web dashboard interface that GitHub cannot display properly.
+
+👉 **Experience the full interactive version:** [hamza-choudhury.github.io](https://hamza-choudhury.github.io)
+
+The live site showcases all interactive features, charts, and controls that make this project unique.
+
 ## ☕ Support & Appreciation
 
 If you find this project valuable for your research, education, or professional work, consider supporting its development:
